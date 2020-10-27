@@ -1,0 +1,12 @@
+{
+    "name": "sistempintar/php-front-end-boilerplate",
+    "authors": [
+        {
+            "name": "sistempintar",
+            "email": "hello@sistempintar.com"
+        }
+    ],
+    "require": {
+        "rmccue/requests": "^1.7"
+    }
+}
